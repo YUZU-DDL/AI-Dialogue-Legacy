@@ -1,47 +1,33 @@
 # AI-Dialogue-Legacy
 
-## 📖 About this Project
+Analyses of individual dialogue logs with AI (ChatGPT, Gemini) — what made a particular conversation go deep, and what it implies. Each report was produced with the assistance of another AI (NotebookLM) reading the raw log, and is kept here as a legacy for future questioners.
 
-This repository serves as an archive for reports that analyze the structure and essence of noteworthy dialogues with AI (such as ChatGPT and Gemini).
+Written in Japanese first, translated afterward. Reports date from 2025.
 
-Each report is a summary of key points extracted from vast conversation logs, generated with the assistance of another AI, NotebookLM. The goal is to create an intellectual legacy for future "questioners" who explore the potential of human-AI dialogue.
+Glossary and other repositories: [github.com/YUZU-DDL](https://github.com/YUZU-DDL)
 
-This archive contains the following:
+## Contents
 
-- **Analysis reports based on the original Japanese dialogues.**
-- **English translations of the above reports.**
+Each numbered folder holds one dialogue analysis, in both languages (`.jp.md` / `.en.md`).
 
-## 📂 How to Navigate this Archive
+### [01-chatgpt-report](01-chatgpt-report)
+| File | |
+|---|---|
+| [01-report.en.md](01-chatgpt-report/01-report.en.md) · [jp](01-chatgpt-report/01-report.jp.md) | Why did such a long and profound dialogue occur? An analysis of the log itself — what conditions produced it. |
+| [02-report.en.md](01-chatgpt-report/02-report.en.md) · [jp](01-chatgpt-report/02-report.jp.md) | Inquiry creates the future: three scenarios and six trends for coexistence with AI, drawn from the same dialogue. |
 
-Each folder corresponds to the analysis of a single, independent dialogue log.
+### [02-gemini-felo-report](02-gemini-felo-report)
+| File | |
+|---|---|
+| [report.en.md](02-gemini-felo-report/report.en.md) · [jp](02-gemini-felo-report/report.jp.md) | Beyond the butler: DDL and the next generation of human-AI partnership. |
 
-- Each report is stored in a numbered folder (e.g., `01_...`).
-- Inside each folder, you will find both the Japanese version (`article_JP.md`) and the English version (`article_EN.md`).
+## About the author
 
-## 👤 About the Author
+Observer. Not a researcher, not an engineer. I watch what LLMs do in long dialogue, and write down what I see.
 
-- **GitHub:** YUZU-DDL
-- **Medium:** (https://medium.com/@onlythequestioner)
-- **note:** (https://note.com/the_questioner)
+- Glossary and reports: [github.com/YUZU-DDL](https://github.com/YUZU-DDL)
+- Articles: <https://medium.com/@onlythequestioner>
+- Japanese writing: <https://note.com/the_questioner>
 
-このリポジトリは、AI（ChatGPT, Geminiなど）との長大な対話の記録（ログ）の中から、特に注目すべき点を抽出し、その構造や本質を分析したレポートを保管する場所です。
-
-各レポートは、AI（NotebookLM）の協力を得て、膨大なログから要点をまとめたものです。これは、AIとの対話の可能性を探求した、未来の「問い手」のための知的遺産となることを目指しています。
-
-この書庫には、以下のものが保管されています。
-
-- **日本語の元となった対話の分析レポート**
-- **上記レポートの英訳版**
-
-## 📂 この書庫の歩き方 (How to Navigate)
-
-各フォルダは、一つの独立した対話ログの分析に対応しています。
-
-- `01_...` のように番号が振られた各フォルダに、一つのレポートが格納されています。
-- 各フォルダ内には、日本語版 (`article_JP.md`) と英語版 (`article_EN.md`) のファイルが置かれています。
-
-## 👤 著者について (About the Author)
-
-- **GitHub:** YUZU-DDL
-- **Medium:** (https://medium.com/@onlythequestioner)
-- **note:** (https://note.com/the_questioner)
+---
+*Observer: YUZU*
