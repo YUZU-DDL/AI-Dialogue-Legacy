@@ -4,7 +4,7 @@ Analyses of individual dialogue logs with AI (ChatGPT, Gemini) — what made a p
 
 Written in Japanese first, translated afterward. Reports date from 2025.
 
-Glossary and other repositories: [github.com/YUZU-DDL](https://github.com/YUZU-DDL)
+Part of DDL (Dialogue Design Language). Glossary and other repositories: [github.com/YUZU-DDL](https://github.com/YUZU-DDL)
 
 ## Contents
 
